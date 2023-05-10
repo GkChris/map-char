@@ -1,20 +1,22 @@
 # mapChar
 
-## Map through string's characters. Works in the same that map works on arrays
+## Description
 
-### Install 
+Map through string's characters. Works in the same that map works on arrays
 
-```Javascript
+## Install 
+
+```
 npm i map-char
 ```
 
-### Import
+## Import
 
 ```Javascript
 require('map-char');
 ```
 
-### Usage 
+## Usage 
 
 ```Javascript
 const str = 'test'

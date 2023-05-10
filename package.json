@@ -1,6 +1,6 @@
 {
   "name": "map-char",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Map through string's characters. Works in the same that map works on arrays",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,9 @@
     "string",
     "loop",
     "char"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GkChris/map-char.git"
+  }
 }

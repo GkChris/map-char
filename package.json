@@ -1,0 +1,17 @@
+{
+  "name": "map-char",
+  "version": "1.0.0",
+  "description": "Map through string's characters. Works in the same that map works on arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GkChris",
+  "license": "MIT",
+  "keywords": [
+    "map",
+    "string",
+    "loop",
+    "char"
+  ]
+}

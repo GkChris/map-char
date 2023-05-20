@@ -2,7 +2,7 @@
 
 ## Description
 
-Map through string's characters. Works in the same that map works on arrays
+The mapChar() function iterates over each character of the string and executes the provided callback function for each one.
 
 ## Install 
 
